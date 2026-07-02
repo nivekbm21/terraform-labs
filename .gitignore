@@ -118,6 +118,7 @@ keys/
 # Crash log files
 crash.log
 
+meta/awscliv2.zip
 
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
